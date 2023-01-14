@@ -1,4 +1,4 @@
-![Header](https://github.com/ladycodeer/ladycodeer/blob/main/github-header-image%20(1).png)
+
 
 
 <h1 align="center">Hi 👋, I'm Rabia Kahya</h1>
