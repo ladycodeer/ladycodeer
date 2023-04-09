@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Reactjs , Redux**
 
-- 💬 Ask me about **React, JavaScript, NextJs**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **rabiakahya22@gmail.com**
 
