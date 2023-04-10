@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rabia Kahya</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladycodeer&label=Profile%20views&color=0e75b6&style=flat" alt="ladycodeer" /> </p>
