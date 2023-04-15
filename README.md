@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Personel Projects**
 
-- 🌱 I’m currently learning **Reactjs , Redux**
+- 🌱 I’m currently learning **Reactjs , Nodejs**
 
 - 💬 Ask me about **React, JavaScript**
 
