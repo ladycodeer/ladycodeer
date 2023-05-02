@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rabia Kahya</h1>
 <h3 align="center">A passionate Software developer and Computer Engineering student from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="[(https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)" >
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/99839758/235598547-96c59894-843e-43a6-998f-4222a73633be.png)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladycodeer&label=Profile%20views&color=0e75b6&style=flat" alt="ladycodeer" /> </p>
 
