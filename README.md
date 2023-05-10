@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rabia Kahya</h1>
-<h3 align="center">A passionate Software developer and third year Computer Engineering student from Turkey</h3>
+<h3 align="center">A passionate Full-Stack Web developer and third year Computer Engineering student from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="Mygif.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladycodeer&label=Profile%20views&color=0e75b6&style=flat" alt="ladycodeer" /> </p>
