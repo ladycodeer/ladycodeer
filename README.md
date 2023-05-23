@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Reactjs , Nodejs, MangoDB**
 
-- 💬 Ask me about **React, JavaScript, Web Development**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **rabiakahya22@gmail.com**
 
