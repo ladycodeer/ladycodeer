@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Rabia Kahya</h1>
-<h3 align="center">A passionate Full-Stack Web Developer and third year Computer Engineering student from Turkey</h3>
+<h3 align="center">I'm a third-year Computer Engineering student in Turkey, passionate about Full-Stack Web Development and always looking to improve.</h3>
 <img align="right" alt="Coding" width="400" src="Mygif.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladycodeer&label=Profile%20views&color=0e75b6&style=flat" alt="ladycodeer" /> </p>
 
 - 🔭 I’m currently working on **Personel Projects**
 
-- 🌱 I’m currently learning **Reactjs , Nodejs, MangoDB**
+- 🌱 I’m currently learning **Reactjs , Nodejs, MongoDB**
 
 - 💬 Ask me about **React, JavaScript**
 
